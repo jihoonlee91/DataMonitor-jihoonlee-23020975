@@ -1,0 +1,23 @@
+[
+  {
+    "order_id": "ORD-0001",
+    "sample_id": "S-001",
+    "customer": "삼성전자 파운드리",
+    "quantity": 200,
+    "status": "CONFIRMED"
+  },
+  {
+    "order_id": "ORD-0002",
+    "sample_id": "S-002",
+    "customer": "SK하이닉스",
+    "quantity": 150,
+    "status": "PRODUCING"
+  },
+  {
+    "order_id": "ORD-0003",
+    "sample_id": "S-003",
+    "customer": "LG이노텍",
+    "quantity": 300,
+    "status": "RESERVED"
+  }
+]
